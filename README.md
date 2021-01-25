@@ -1,8 +1,9 @@
-## Strogonoff de frango :chicken:
+# Livro de Receitas :man_cook:
 
-### Ingredientes
+Olá bem vindo ao meu livro de receitas. :stew:
 
-* Creme de leite 
-* 1 kg de peito de Frango
-* Sal
-* Limão
+### Recitas
+
+* Strogonoff de Frango
+* Lasanha
+* Patinho com batata doce

@@ -1,12 +1,9 @@
-# Ingredientes
+# Strogonofe de Frango :chicken:
 
 * Peito de frango
 * Creme de leite
-* Editado
-
-
-
-### Testando commit
+* Sal e limão
+* Pimenta do reino
 
 
 
